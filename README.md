@@ -1,2 +1,2 @@
 # mlops-zoomcamp
-Repository for MLops Zoomcamp organised by DataTalksClub 2023
+Repository for my MLops Zoomcamp course organised by DataTalksClub 2023
